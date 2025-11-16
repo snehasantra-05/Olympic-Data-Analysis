@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Olympic Data Analysis
 
 This project performs an exploratory data analysis (EDA) on Olympic athlete data to understand trends in age, height, weight, gender participation, medal distribution, and country performance. The analysis uses Python, Pandas, Matplotlib, and Seaborn.
@@ -40,7 +39,3 @@ This project includes analysis of:
 
 ## Conclusion
 The analysis highlights strong patterns across athlete characteristics, medal performance, and country-wise contributions. It shows how physical attributes, age, and participation trends evolve across sports, seasons, and eras. This project provides a clear
-=======
-# Olympic-Data-Analysis
-This project analyzes Olympic athlete data through extensive Exploratory Data Analysis (EDA). It explores age distribution, height and weight patterns, seasonal differences, medal trends, country-level performance, and participation over time. 
->>>>>>> 5ac9110b4d5ef37fc9f02437635076aa8ffd3d1d
